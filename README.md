@@ -4,7 +4,7 @@
   
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&text=👩🏻‍💻I'm sseongeun%20)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&text=I'm sseongeun%20)
 
 
 
