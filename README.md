@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFE3FC&height=150&section=header" />
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=BFE3FC&height=150&section=header" /> -->
   
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&text=SSEONGEUN%20)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&text=👩🏻‍💻I'm sseongeun%20)
 
 
 
@@ -13,7 +13,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSL313&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/sseongeun)
 
-  <h1>👩🏻‍💻sseongeun's github</h1>
+ 
 
   <h3>languages</h3>
   
@@ -37,7 +37,7 @@
   
   [![Solved.ac 
   프로필](http://mazassumnida.wtf/api/generate_badge?boj=cse0522)](https://solved.ac/cse0522)
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFE3FC&height=150&section=footer" />
+  
+<!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFE3FC&height=150&section=footer" /> -->
 
 </div>
