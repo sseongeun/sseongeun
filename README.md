@@ -26,8 +26,9 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseongeun&layout=compact)](https://github.com/sseongeun/github-readme-stats)
 
-  <h3>my informations</h3>
+
   <ul>
+    <h3>my informations</h3>
     <li> study in Soongsil university - 4th grade </li>
     <li> studying Backend now </li>
     <li> want to be steady, passionate </li>
@@ -37,6 +38,6 @@
   [![Solved.ac 
   프로필](http://mazassumnida.wtf/api/generate_badge?boj=cse0522)](https://solved.ac/cse0522)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BFE3FC&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFE3FC&height=150&section=footer" />
 
 </div>
