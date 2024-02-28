@@ -28,9 +28,9 @@
 
   <h3>my informations</h3>
   <ul>
-    <div> study in Soongsil university - 4th grade </div>
-    <div> studying Backend now </div>
-    <div> want to be steady, passionate </div>
+    <li> study in Soongsil university - 4th grade </li>
+    <li> studying Backend now </li>
+    <li> want to be steady, passionate </li>
   </ul>
   <h3>keep going</h3>
   
