@@ -29,7 +29,9 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
   </div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseongeun&layout=compact)](https://github.com/sseongeun/github-readme-stats)
+
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseongeun&layout=compact)](https://github.com/sseongeun/github-readme-stats)
 
 
   <ul>
@@ -39,7 +41,7 @@
     <li> want to be steady, passionate </li>
   </ul>
 
-  <div></div>
+  <div> </div>
   <h3>Daily</h3>
   
   [![Solved.ac 
