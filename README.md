@@ -26,8 +26,13 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseongeun&layout=compact)](https://github.com/sseongeun/github-readme-stats)
 
-
-  <h3>baekjun</h3>
+  <h3>my informations</h3>
+  <ul>
+    <div> study in Soongsil university - 4th grade </div>
+    <div> studying Backend now </div>
+    <div> want to be steady, passionate </div>
+  </ul>
+  <h3>keep going</h3>
   
   [![Solved.ac 
   프로필](http://mazassumnida.wtf/api/generate_badge?boj=cse0522)](https://solved.ac/cse0522)
