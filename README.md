@@ -4,10 +4,10 @@
   
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&text=I'm%20sseongeun)
 
 
 
+![header](https://capsule-render.vercel.app/api?type=venom&text=I'm%20sseongeun)
 
 ### TODAY VISITED 👋
 
