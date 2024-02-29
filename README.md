@@ -5,12 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+I'm+seongeun!👋)](https://git.io/typing-svg)
   
 ---
-### Today visited 👋
+### visited 👋
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSL313&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/sseongeun)
+  
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseongeun&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sseongeun)
+
 
 <div>
-  
+  [![sseongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseongeun&theme=nord&hide_border=true&count_private=true)](https://github.com/sseongeun/github-readme-stats)
+ 
 </div>
 
 ---
