@@ -9,6 +9,10 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSL313&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/sseongeun)
 
+<div>
+  
+</div>
+
 ### 🎃 My languages
 
   
@@ -24,8 +28,10 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
   </div>
-
-  
+  <div>
+    
+  </div>
+    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseongeun&layout=compact)](https://github.com/sseongeun/github-readme-stats)
 <div>
   
@@ -41,9 +47,7 @@
 
 
   
-  [![Solved.ac 
-  프로필](http://mazassumnida.wtf/api/generate_badge?boj=cse0522)](https://solved.ac/cse0522)
-  
+
 <!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFE3FC&height=150&section=footer" /> -->
 
 
