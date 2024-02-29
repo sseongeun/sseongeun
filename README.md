@@ -7,7 +7,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=venomc&olor=BFE3FC&height=150&text=I'm%20sseongeun)
+![header](https://capsule-render.vercel.app/api?type=venom&color=BFE3FC&height=150&text=I'm%20sseongeun)
 
 ### TODAY VISITED 👋
 
