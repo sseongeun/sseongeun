@@ -68,12 +68,12 @@
 
 **2023.03~2023.08**
 
-숭실대 UMC- web 파트 frontend member
+숭실대 UMC 4기 - web frontend member
 
 
 **2023.07.03~2023.08.24**
 
-[TrothCam]- web frontend part (React)
+숭실대 UMC 4기 프로젝트 - [TrothCam] web frontend (React)
 블록체인을 이용한 사진 위변조 여부 인증 서비스와 더불어 디지털 미디어에 가치를 부여하고, 이를 판매-구매 할 수 있도록 하는 웹사이트
 
 ---
