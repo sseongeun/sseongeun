@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+I'm+seongeun!👋)](https://git.io/typing-svg)
 
 ---
-### 🎃 My info
+### 😶‍🌫️ My info
   <ul>
     <li>  SoftWare in Soongsil university </li>
     <li>  studying Backend </li>
@@ -16,7 +16,7 @@
 
 
 ---
-### 🎃 My languages
+### 🍎 My languages
 
   
   <div>
@@ -43,7 +43,7 @@
 
 ---
 
-### 🎃 Things i've achieved
+### 📈 Things i've achieved
 
 
 **2021.12.21~2022.01.04**
