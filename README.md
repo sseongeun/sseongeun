@@ -1,4 +1,4 @@
-<!-- <div align="center">![header](https://capsule-render.vercel.app/api?type=venom&color=ff8aa3&height=150&text=I'm%20sseongeun)</div> -->
+<!-- <div align="center">![header](https://capsule-render.vercel.app/api?type=venom&color=FF8AA3&height=150&text=I'm%20sseongeun)</div> -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
