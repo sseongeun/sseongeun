@@ -1,8 +1,8 @@
-<!-- <div align="center">![header](https://capsule-render.vercel.app/api?type=venom&color=FF8AA3&height=150&text=I'm%20sseongeun)</div> -->
+<!-- <div align="center">![header](https://capsule-render.vercel.app/api?type=venom&color==ffe08c&height=150&text=I'm%20sseongeun)</div> -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff8aa3&text=&animation=twinkling&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffe08c&text=&animation=twinkling&height=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ff8aa3&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+I'm+seongeun!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ffe08c&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+I'm+seongeun!👋)](https://git.io/typing-svg)
 
 ---
 ## 😶‍🌫️ My info
