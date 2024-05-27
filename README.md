@@ -10,7 +10,7 @@
     <li>  SoftWare in Soongsil university </li>
     <li>  studying Backend </li>
     <li>  email: cse0522@naver.com</li>
-    <li>  want to be steady, passionate 🍀 </li>
+    <li>  want to be steady, passionate </li>
   </ul>
 
 
