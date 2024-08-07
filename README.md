@@ -1,8 +1,8 @@
 <!-- <div align="center">![header](https://capsule-render.vercel.app/api?type=venom&color==ffe08c&height=150&text=I'm%20sseongeun)</div> -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffe08c&text=&animation=twinkling&height=80)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=ffe08c&text=&animation=twinkling&height=80) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ffe08c&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+I'm+seongeun!👋)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ffe08c&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+I'm+seongeun!👋)](https://git.io/typing-svg)-->
  
 ---
 ## 😶‍🌫️ My info
@@ -10,7 +10,6 @@
     <li>  SoftWare in Soongsil university </li>
     <li>  studying Backend </li>
     <li>  email: cse0522@naver.com</li>
-    <li>  want to be steady, passionate </li>
   </ul>
 
 
@@ -51,9 +50,9 @@
 [융특 소모임 ci&ai] 2022 겨울방학 Git & GitHub 스터디 참여
 
 
-**2021.12.27 ~ 2022.02.25**
+<!-- **2021.12.27 ~ 2022.02.25** -->
 
-[동계Live] 정혜경의 C 프로그래밍 수강, C++ & STL 수강
+<!-- [동계Live] 정혜경의 C 프로그래밍 수강, C++ & STL 수강 -->
 
 
 **2022.02.09~2022.02.07**
