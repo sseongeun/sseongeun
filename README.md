@@ -5,17 +5,17 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ffe08c&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+I'm+seongeun!👋)](https://git.io/typing-svg)-->
  
 ---
-## 😶‍🌫️ My info
+
   <ul>
-    <li>  SoftWare in Soongsil university </li>
-    <li>  studying Backend </li>
+    <li>  Soongsil university. software </li>
+    <li>  Backend using Spring boot </li>
     <li>  email: cse0522@naver.com</li>
   </ul>
 
 
 
 ---
-## 🍎 My languages
+## 💻 languages
 
   
   <div>
@@ -40,9 +40,18 @@
   
 </div>
 
----
+  
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseongeun&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sseongeun)
 
-## 📈 Things i've achieved
+
+
+  [![sseongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseongeun&theme=nord&hide_border=true&count_private=true)](https://github.com/sseongeun/github-readme-stats)
+ 
+ 
+
+  
+
+## 🤓 projects participated
 
 
 **2021.12.21~2022.01.04**
@@ -62,38 +71,32 @@
 
 **2023.03~2023.08**
 
-숭실대 UMC 4기 - web frontend member
+숭실대 UMC 4th - web frontend member
 
 
 **2023.07.03~2023.08.24**
 
-숭실대 UMC 4기 프로젝트 - [TrothCam] web frontend (React)
+TrothCam -  web frontend (React)
 블록체인을 이용한 사진 위변조 여부 인증 서비스와 더불어 디지털 미디어에 가치를 부여하고, 이를 판매-구매 할 수 있도록 하는 웹사이트
 
 
+**2024.03~2024.08**
+
+숭실대 UMC 6th - SpringBoot backend member
+
+**2023.07~2023.08**
+Dev:crew - web server (SpringBoot)
+IT 프로젝트를 위한 기획, 팀 매칭, 소통, 프로젝트 관리를 할 수 있게 도와주는 서비스
+
 **2024.03~**
 
-숭실대 UMC 6기 - SpringBoot backend member
-
-
-**2024.03~**
-
-clubber (동아리 관련 웹 서비스) 개발중 - SpringBoot
+clubber - web server (SpringBoot)
+동아리 통합 정보 제공 웹 서비스 
+중앙동아리와 소모임에 대한 정보를 제공하고, 리뷰 서비스를 통해 동아리에 대한 다양한 의견을 제공해주는 웹서비스
 
 ---
 
-### visited 👋
 
-  
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseongeun&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sseongeun)
-
-
-
-  [![sseongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseongeun&theme=nord&hide_border=true&count_private=true)](https://github.com/sseongeun/github-readme-stats)
- 
- 
-
-  
 
 <!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFE3FC&height=150&section=footer" /> -->
 
