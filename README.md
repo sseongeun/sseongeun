@@ -15,41 +15,6 @@
 
 
 ---
-## 💻 languages
-
-  
-  <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
-  </div>
-  
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
-  </div>
-  <div>
-    
-  </div>
-    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseongeun&layout=compact)](https://github.com/sseongeun/github-readme-stats)
-<div>
-
-  
-</div>
-
-  
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseongeun&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sseongeun)
-
-
-
-  [![sseongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseongeun&theme=nord&hide_border=true&count_private=true)](https://github.com/sseongeun/github-readme-stats)
- 
- 
-
-  
 
 ## 🤓 projects participated
 
@@ -95,6 +60,40 @@ clubber - web server (SpringBoot)
 중앙동아리와 소모임에 대한 정보를 제공하고, 리뷰 서비스를 통해 동아리에 대한 다양한 의견을 제공해주는 웹서비스
 
 ---
+
+## 💻 languages
+
+  
+  <div>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
+  </div>
+  <div>
+    
+  </div>
+    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseongeun&layout=compact)](https://github.com/sseongeun/github-readme-stats)
+<div>
+
+  
+</div>
+
+  
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseongeun&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sseongeun)
+
+
+
+  [![sseongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseongeun&theme=nord&hide_border=true&count_private=true)](https://github.com/sseongeun/github-readme-stats)
+ 
+ 
+
+  
+
 
 
 
