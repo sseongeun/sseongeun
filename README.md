@@ -7,7 +7,7 @@
 ---
 
   <ul>
-    <li>  Soongsil university. software </li>
+<!--     <li>  Soongsil university. software </li> -->
     <li>  Backend using Spring boot </li>
     <li>  email: cse0522@naver.com</li>
   </ul>
@@ -21,7 +21,7 @@
 
 <!--**2021.12.21~2022.01.04**-->
 
-<!--[융특 소모임 ci&ai] 2022 겨울방학 Git & GitHub 스터디 참여-->
+<!--[소모임 ci&ai] 2022 겨울방학 Git & GitHub 스터디 참여-->
 
 
 <!-- **2021.12.27 ~ 2022.02.25** -->
@@ -36,7 +36,7 @@
 
 **2023.03~2023.08**
 
-숭실대 UMC 4th - web frontend member
+UMC 4th - web frontend member
 
 
 **2023.07.03~2023.08.24**
@@ -47,7 +47,7 @@ TrothCam -  web frontend (React)
 
 **2024.03~2024.08**
 
-숭실대 UMC 6th - SpringBoot backend member
+UMC 6th - SpringBoot backend member
 
 **2023.07~2023.08**
 
