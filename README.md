@@ -5,7 +5,11 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ffe08c&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi+I'm+seongeun!👋)](https://git.io/typing-svg)-->
  
 ---
+  
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseongeun&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sseongeun)
 
+
+ 
   <ul>
     <li>  email: cse0522@naver.com</li>
     <li>  velog: https://velog.io/@sseongeun/posts</li>
@@ -84,29 +88,22 @@ clubber - web server (SpringBoot)
     <img src="https://img.shields.io/badge/C++-1572B6?style=flat&logo=C++&logoColor=white" />
      <img src="https://img.shields.io/badge/C-1572B6?style=flat&logo=C&logoColor=white" />
   </div>
-  <div>
-    
-  </div>
-    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseongeun&layout=compact)](https://github.com/sseongeun/github-readme-stats)
+
 <div>
-
-  
-</div>
-
-  
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseongeun&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/sseongeun)
-
-
-
+ 
   [![sseongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseongeun&theme=nord&hide_border=true&count_private=true)](https://github.com/sseongeun/github-readme-stats)
  
  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseongeun&layout=compact)](https://github.com/sseongeun/github-readme-stats)
+</div>
+ 
 
-  
-
-
-
+ ## 💻 Languages
+ 
+| Certification                 | Level                                           |
+|-------------------------|--------------------------------------------------------|
+| TOEIC (English) | scored 945 |
+| OPIc (English) | Advanced Low (AL) |
 
 <!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFE3FC&height=150&section=footer" /> -->
 
