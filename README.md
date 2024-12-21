@@ -43,6 +43,18 @@ IT 프로젝트를 위한 기획, 팀 매칭, 소통, 프로젝트 관리를 할
 
 `Communication` : Figma, Discord
 
+**2024.09~2024.12~**
+
+swith - web server (SpringBoot)
+스터디 생성 및 관리 서비스
+스터디를 장기적으로 끌고 갈 수 있게 도와주는 웹서비스
+
+`Techs` : SSE(실시간 알림, 출석처리 기능 구현), Spring Boot, Jpa, Jquery, AWS, JWT for kakao Login
+
+`CI/CD` : docker-compose, dockerhub, github actions
+
+`Communication` : Figma, Discord
+
 
 **2024.03~**
 
