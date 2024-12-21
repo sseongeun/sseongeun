@@ -43,7 +43,7 @@ IT 프로젝트를 위한 기획, 팀 매칭, 소통, 프로젝트 관리를 할
 
 `Communication` : Figma, Discord
 
-**2024.09~2024.12~**
+**2024.09 ~ 2024.12~**
 
 swith - web server (SpringBoot)
 스터디 생성 및 관리 서비스
