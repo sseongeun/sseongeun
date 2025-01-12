@@ -109,10 +109,13 @@ clubber - web server (SpringBoot)
 </div>
  
 
- ## 💻 Languages
+ ## 💻 Certifications
  
-| Certification                 | Level                                           |
+| name                | Level                                           |
 |-------------------------|--------------------------------------------------------|
+| SQLD |  |
+| 정보처리기사 |  |
+| SAP Certified Associate – Back-End Developer - ABAP Cloud |  |
 | TOEIC (English) | scored 945 |
 | OPIc (English) | Advanced Low (AL) |
 
