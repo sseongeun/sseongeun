@@ -32,7 +32,7 @@ TrothCam -  web frontend (React)
 
 `Communication` : Figma, Slack
 
-**2023.07~2023.08 - 🏆 우수상 수상**
+**2024.07~2024.08 - 🏆 우수상 수상**
 
 Dev:crew - web server (SpringBoot)
 IT 프로젝트를 위한 기획, 팀 매칭, 소통, 프로젝트 관리를 할 수 있게 도와주는 서비스
@@ -56,7 +56,7 @@ swith - web server (SpringBoot)
 `Communication` : Figma, Discord
 
 
-**2024.03~**
+**2024.03~ing**
 
 clubber - web server (SpringBoot)
 동아리 통합 정보 제공 웹 서비스 
